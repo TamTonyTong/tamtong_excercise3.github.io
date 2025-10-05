@@ -1,4 +1,4 @@
-# Exercise 0.1 - 0.3 Project
+# Exercise 3 Project
 
 **Student:** Tong Duc Tu Tam  
 **Date:** October 5, 2025  
